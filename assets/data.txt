@@ -1,0 +1,289 @@
+Apple;Scab:
+A Apple scab is a disease caused by the fungus Venturia inaequalis.
+It survives the winter mainly on infected leaves on the ground but also on bud scales or lesions on wood.
+At the onset of spring, the fungus resumes growth and starts to produce spores, which are later discharged and dispersed over long distances by the wind.
+These spores land on developing leaves and fruits and start a new infection. Outer parts of unopened fruit buds are highly susceptible to scab.
+However, as the fruit matures it becomes much less susceptible. Humid environment, wetting period of leaves or fruits are essential for the infection.
+Alternative hosts include shrubs of the genus Cotoneaster, Pyracantha and Sorbus. All apple varieties are susceptible to scab, with Gala being more vulnerable.
+@
+If disease levels were high the previous season, liquid copper fungicides can be sprayed to impede the fungal growth on the tree during the winter season.
+Sulfur sprays are only partially effective against apple scab. However, solutions containing sulfur and pyrethrins are available for organic control of the disease during the growing season.
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+#Apple;Black_Rot:
+Black rot is caused by the fungus Diplodia seriata (syn Botryosphaeria obtusa).
+The fungus can infect dead tissue as well as living trunks, branches, leaves and fruits.
+The black rot fungi survive Minnesota winters in branch cankers and mummified fruit (shriveled and dried fruit) attached to the tree.
+In wet weather, spores are released from these infections and spread by wind or splashing water.
+Leaf spots don’t release fungal spores.
+The fungus infects leaves and fruit through natural openings or minor wounds.
+Branches and the trunk are most likely to be infected through dead or damaged wood.
+Leaf spots don’t seriously affect the health of the tree unless many leaves turn yellow and fall off because of the infection (this is rare).
+@
+Organic Control
+If disease levels were high the previous season, liquid copper fungicides can be sprayed to impede the fungal growth on the tree during the winter season.
+Sulfur sprays are only partially effective against apple scab. However, solutions containing sulfur and pyrethrins are available for organic control of the disease during the growing season.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+Choose ONE of the products if you want to apply chemical control
+Fungicide
+
+Myclobutanil 10.0% WP
+Found in Boon (Indofil), Focus (IIL), Systhane (Dow), In...
+
+Carbendazim 50.0% WP
+Found in
+Bengard (Dow),Bavistin (BASF)
+
+Captan 50.0% WP
+Found in
+Merimain (Adama India Pvt. Ltd.),
+#Apple;Cedar:AC
+#Apple;Healthy:AH
+#Blueberry;Healthy:BH
+#Cherry;Powder_Mildew:
+Fungal spores overwinter inside leaf buds and other plant debris. Wind, water, and insects transmit the spores to nearby plants. Even though it is a fungus, powdery mildew can develop rather normally in dry conditions.
+It survives at temperatures between 10-12°C, but optimal conditions are found at 30°C. In contrast to downy mildew, small amounts of rainfall and regular morning dew accelerate the spreading of powdery mildew.
+@
+Organic Control
+Foliar sprays based on sulfur, neem oil, kaolin or ascorbic acid can prevent severe infection.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments if available. In view of the number of crops that are susceptible to powdery mildew, it is difficult to recommend any particular chemical treatment.
+Fungicides based on wettable sulphur (3 g/l), hexaconazole, myclobutanil (all 2 ml/l) seem to control the growth of the fungus in some crops
+#Cherry;Healthy:CH
+#Corn;Gray_Leaf_Spot:
+The symptoms are caused by the fungi of C. lunatus. The infection can be caused by air bourne conidia and ascospores, rainwater splashing and irrigation, and can also survive in the soil via old crop residues. The disease is common in hot, humid areas, under an optimal temperature range of 24-30°C.
+@
+Organic Control
+To this day, we are not aware of any biological control method available against this disease. If you know of any successful method to reduce the incidence or gravity of the symptoms, please contact us.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available. Use fungicides such as Mancozeb, Chlorothalonil, and Maneb.
+#Corn;Rust:
+The disease is caused by the fungus Puccinia sorghi. The fungus overwinters in an alternate host (a species of Oxalis) and releases spores during the spring. The spores can be transported over great distances by winds and rain.
+They start the infection process when landing on the leaves. Secondary infection from plant to plant can also occur due to wind and rain. The development of the disease is favored by high relative humidities (nearly 100%), dew, rain and cool temperatures between 15 and 20°C (may vary depending on area).
+Hot, dry weather will in turn slow or hinder the development of the fungus and the incidence of the disease. It is more a problem in plants used for seed production and sweet corn. Plants cultivated as livestock feed, for industrial products, or to make processed foods are not concerned.
+@
+Organic Control
+No alternative treatment against Puccinia sorghi is available so far. Please get in touch with us in case you know of anything that might help to fight this disease. Looking forward to hearing from you.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+
+#Corn;Northern_Leaf_Blight:
+The fungus overwinters in the soil or on plant debris. Rainfall, night dew, high humidity and moderate temperatures favor the dispersion of the the fungus. Carried by wind or rain splashes it first spreads from the soil onto the lower leaves of young maize plants.
+Rainy conditions and poor field practices favor its spread to other plants and within fields. Optimal temperatures for infection are in the range of 18 to 27°C during the growing season. A prolonged period of 6 to 18 hours of leaf wetness are also necessary. Sorghum is another favorite host of the fungus.
+@
+ORGANIC CONTROL
+Bio-fungicides based on Trichoderma harzianum, or Bacillus subtilis can be applied at different stages to decrease the risk of infection. Application of sulfur solutions is also effective.
+
+CHEMICAL CONTROL
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+Choose ONE of the products if you want to apply chemical control
+Fungicide
+
+Mancozeb 75.0% WP
+Found in Sparsh (Biostadt), M-Guard (Gharda), Mandy
+#Corn;Healthy:CH
+#Grape;Black_Rot:
+The damage is caused by the fungus Phyllosticta ampelicida. The pathogen overwinters in infested shoots or fruit mummies on the grapevine or the soil. The spores will be ejected by light rainfall and then dispersed via wind.
+Optimal growth conditions are met at 25°C and 6 hours of constant leaf wetness. The fungus prefers warm and humid weather. Reduced fruit yield.
+@
+Organic Control
+Immediately after blooming stage you can spray Bacillus thuringiensis.
+
+Chemical Control
+Chemical applications are done in a preventive manner. Start spraying roughly two weeks before. bloom with captan + mycobutanil or mancozeb + mycobutanil. Just before the blossoms open you can also use carbaryl or imidcloprid.
+Post-bloom spray mancozeb + mycobutanil, imidacloprid or azadirachtin. Ten days after bloom you can also apply a mixture of captan and sulfur on your vines. Because most grape varieties become resistant to the infection three to four weeks after bloom, chemical sprays should be avoided at that time.
+#Grape;Black_Measles:
+The symptoms are mainly caused by the fungus Togninia minima but other fungi can also be involved (for example Phaeomoniella chlamydospora). The infection actually occurs in younger vines but the symptoms may first become apparent in vineyards after 5-7 years.
+The fungi survive the winter in overwintering structures embedded in the woody parts of the vines. During fall to spring rainfall, spores are produced and released and may infect wounds done during dormant pruning. Wounds may remain susceptible to infection for several weeks after pruning.
+After a pruning wound is infected, the pathogen establishes a permanent, localized wood infection, which cannot be eradicated by fungicide applications.
+@
+Organic Control
+Soak dormant cuttings for 30 mins in hot water at about 50°C. This treatment is not always effective and must therefore be combined with other methods. Some species of Trichoderma have been used to prevent the infection of pruning wounds, basal ends of propagation material, and graft unions.
+This treatment has to be carried out within 24 hours of pruning and again 2 weeks after.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments if available. Chemical strategies to control this disease are difficult, since the traditional wound protectants do not penetrate deep enough in the dormant grapevine cuttings to affect the fungi.
+Preventive practices are the most effective management approach for all trunk diseases. For example, immediately before grafting, vines can be dipped into specialized waxes containing plant growth regulators or fungicide-impregnated formulations. This encourages graft union callus development while inhibiting fungal contamination.
+
+#Grape;Leaf_Blight:GLB
+#Grape;Healthy:GH
+#Orange;Citrus_Greening:
+The symptoms of huanglongbing (HLB) are caused by the bacterium Candidatus Liberibacter asiaticus. It is transmitted persistently by two psyllid vectors that are omnipresent in the citrus grooves, Diaphorina citri and Trioza erytreae. HLB can be acquired by both nymphs and adults, which can maintain and transmit the disease throughout their 3- to 4-month lifespan. Huanglongbing is systemic and has an incubation period of three months to several years before symptoms are visible. The disease can also be spread through grafting, even though with variable transmission rates.
+Seed transmission may also be possible. Other pathologies or disorders also show such a mottling of the leaves. It is thus recommended to send samples of tissues for analysis in laboratories to ascertain the cause.
+@
+Organic Control
+Sorry, we don't know of any biological treatment against this disease. Please get in touch with us in case you know of something that might help to fight this disease. We are looking forward hearing from you.
+
+Chemical Control
+Always consider an integrated approach with preventive measures and biological treatments if available. An appropriate use of insecticides has resulted in good control of the psyllid vectors and thus a limited spread of the disease.
+Injection of the antibiotic tetracycline into the trunk of the trees may result in a partial recovery but has to be repeated often to show effect. Tetracycline is phytotoxic and may have adverse effects on the environment. For these reasons, its use has decreased in recent years.
+#Peach;Bacterial_Spot:PBS
+#Peach;Healthy:PH
+#Pepper;Bacterial_Spot:
+The symptoms are caused by the bacterium Xanthomonas arboricola, whose common hosts are peach, nectarine, prune, plum, and apricot. It overwinters on buds, cracks of the stem or in leaf scars. In spring, when conditions are favorable, it resumes its growth and colonize the rest of the twigs, exuding bacterial ooze as it does so.
+The ooze is dispersed by dropping dew, wind or splashing rain and carried to healthy twigs, fruits and leaves. The natural pores on leaves or the lenticels on bark are the entry points for the bacteria. Warm temperatures (21 to 29 °C) with light rains, heavy dews, and windy weather are most conducive for disease development and spread. By contrast, the growth of the bacterium and the infection process is impaired when the weather is hot and dry. The disease leads to yield losses, which can be very high in some particularly susceptible varieties.
+@
+Organic Control
+Sorry, we don't know of any alternative treatment against Xanthomonas arboricola . Please get in touch with us in case you know of something that might help to fight this disease. We are looking forward to hearing from you.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available. There are no completely successful spray programs for the control of bacterial spot. A combination of preventive measures and chemical treatments are necessary to reduce its incidence.
+Copper-based sprays alone or together with an antibiotic can be used preventively with moderate efficacy. Dosage must be reduced progressively to avoid damage to leaves.
+#Pepper;Healthy:PH
+#Potato;Early_Blight:PEB
+#Potato;Late_Blight:PLB
+#Potato;Healthy:PH
+#Raspberry;Healthy:RH
+#Soyabean;Healthy:SH
+#Squash;Powder_Mildew:
+The infection usually starts off as circular, powdery white spots which can affect leaves, stems and sometimes fruits. It usually covers the upper parts of the leaves but may grow on the undersides as well. The fungus hinders photosynthesis and causes the Leaves turn yellow and dry out and some leaves might twist, break or become disfigured. In the later stages, the buds and growing tips become disfigured.
+@
+Organic Control
+Foliar sprays based on sulfur, neem oil, kaolin or ascorbic acid can prevent severe infection.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+
+Choose ONE of the products if you want to apply chemical control
+
+Fungicide
+Hexaconazole 5.0% SC
+Found in Krizole (Krishi Rasayan Exports Private Limited),...
+
+Fungicide
+Dinocap 48.0% EC
+Found in Karathane (Dow)
+
+Fungicide
+Azoxystrobin 18.2%
+SC,Difenoconazole 11.4% SC
+#Strawberry;Leaf_Scorch:SLS@SLS
+#Strawberry;Healthy:SW
+#Tomato;Bacterial_Spot:
+Initially small yellow-green lesions appear on young leaves for bacterial spots, whilst bacterial speck causes black spots with a narrow yellow halo. They are usually more numerous on leaf margins or tips, which may appear deformed and twisted. In severe cases, the spots of bacterial speck may coalesce or overlap, resulting in larger and irregular lesions. Bacterial spot lesions can enlarge from 0.25 cm to 0.5 cm and become tan to brownish-red, which will eventually look like shot holes when the center dries up. Bacterial spot produces similar lesion of fruits as it does on the leaves and eventually roughen, becoming brown and scabbed. Bacterial speck causes tiny, slightly raised black specks. It is difficult to distinguish between these two diseases at an early stage.
+@
+Organic Control
+Bacterial Spot is very difficult to control and also expensive to treat. If the disease occurs early in the season, consider destroying the entire crop. Copper-containing bactericides provide a protective cover on foliage and fruit for both bacteria. Bacterial viruses (bacteriophages) that specifically kill the bacteria are available for the bacterial spot. Submerging seeds for one minute in 1.3% sodium hypochlorite or in hot water (50°C) for 25 minutes can reduce the incidence of both diseases.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+
+Choose ONE of the products if you want to apply chemical control
+
+Fungicide
+Mancozeb 75.0% WP
+Found in RM-45 (Krishi Rasayan Exports Private Limited),
+
+Bactericide
+Copper Oxychloride 50.0% WP
+Found in Blyton (Crystal), Dhanucop (Dhanuka), Fungicop...
+
+Bactericide
+Streptomycin Sulfate 90.0%
+SP,Tetracycline hydrochloride 10.0...
+Found in : Strepto Plus (JU Agri), Krosin AG (KRUBHCO)
+#Tomato;Early_Blight:
+Gray to brown spots appear on leaves and gradually grow in a concentric manner around a clear center - the characteristic "bullseye" formation. These lesions are surrounded by a bright yellow halo. As the disease progresses, entire leaves may turn chlorotic and shed, leading to significant defoliation. When leaves die and fall, fruits become more vulnerable to sun scald. The same type of spots with a clear center appears on stems and fruits. The fruits begin to rot and may eventually fall off.
+@
+Organic Control
+Application of products based on Bacillus subtilis or copper-based fungicides registered as organic can treat this disease.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+
+Choose ONE of the products if you want to apply chemical control
+
+Fungicide
+Mancozeb 75.0% WP
+Found in : Macoban M-45 (Adama India Pvt. Ltd.), Manzate...
+
+Fungicide
+Cymoxanil 22.1% SC,Famoxadone
+16.6% SC
+Found in: Equation Pro (DuPont)
+
+Fungicide
+Chlorothalonil 33.1% SC,Metalaxyl-M 3.3% SC
+Found in : Folio Gold (Syngenta)
+#Tomato;Late_Blight:
+Brownish-green spots appear on the leaf margins and leaf tops. Later, large areas of the leaves turn brown completely. During wet weather, lesions on the lower side of the leaves may be covered with a gray to white moldy growth, making it easier to distinguish healthy from dead leaf tissue. As the disease progresses, the foliage runs brown, curls and dries. In some cases, the sharply delimited brown spots and the white covering also appear on the stems, branches, and petioles. Greyish-green to dirty-brown and wrinkled stains appear on the fruits. At these spots, the fruit flesh is hardened.
+@
+Organic Control
+At this point, there is no biological control of known efficacy against late blight. To avoid spreading, remove and destroy plants around the infected spot immediately and do not compost infected plant material.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+
+Choose ONE of the products if you want to apply chemical control
+
+Fungicide
+Mancozeb 75.0% WP
+Found in Dithane M-45 (Dow), Uthane M-45 (UPL), Mandy...
+
+Fungicide
+Cymoxanil 22.1% SC,Famoxadone 16.6% SC
+Found in Equation Pro (DuPont)
+#Tomato;Leaf_Mold:
+Symptoms commonly occur on both sides of the foliage and sometimes on fruit. Older leaves are infected first and then the disease slowly moves up towards young leaves. On the upper leaf surface, small, diffuse, pale green or yellowish spots with indefinite margins appear. On the underside, olive green to grayish purple and velvety patches develop below the leaf spots. These are composed of spore-producing structures and spore masses (conidia). Over time, as the spots enlarge, the color of the infected leaf changes from yellowish (chlorosis) to brown (necrosis) and the leaf begins to curl and dry. The leaves will drop prematurely, leading to defoliation in severe cases. Occasionally, this pathogen causes disease on the blossoms or fruits with various symptoms. The blossoms may turn black and will be killed before the fruit sets. Green and ripe fruits will develop a smooth black irregular area on the stem end. As the disease progresses, the infected area becomes sunken, dry and leathery.
+@
+Organic Control
+Seed treatment with hot water (25 minutes at 122 °F or 50 °C) is recommended to avoid the pathogen on seeds. The fungi Acremonium strictum, Dicyma pulvinata, Trichoderma harzianum or T. viride and Trichothecium roseum are antagonistic to M. fulva and could be used to reduce its spread. In greenhouse trials the growth of M. fulva on tomatoes was inhibited by A. strictum, Trichoderma viride strain 3 and T. roseum by 53, 66 and 84% respectively. In small arms, apple-cider, garlic or milk sprays and vinegar mix can be used to treat the mold.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments if available. Applications should be made prior to infection when environmental conditions are optimal for the development of the disease. Recommended compounds in field use are chlorothalonil, maneb, mancozeb and copper formulations. For greenhouses, difenoconazole, mandipropamid, cymoxanil, famoxadone and cyprodinil are recommended.
+#Tomato;Septoria_Leaf:
+Small, water-soaked grey circular spots with dark-brown margins appear on the undersides of older leaves. At later stages of the disease, the spots enlarge and coalesce, and black dots appear in their centers. The same pattern may also be observed on stems and blossoms, but rarely on fruit. Heavily infected leaves will turn slightly yellow, wither, and fall off. The defoliation leads to sun scalding of fruit.
+@
+Organic Control
+Copper-based fungicides, such as Bordeaux mixture, copper hydroxide, copper sulfate, or copper oxychloride sulfate might help control the pathogen. Apply at 7 to 10 day intervals throughout the late season. Follow harvest restrictions listed on the pesticide label.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+
+Choose ONE of the products if you want to apply chemical control
+
+Bactericide
+Xopper Oxychloride 50.0% WP
+Rina (Pl Ind.), Copper-S (Safex), Riva & Gold
+#Tomato;Spider_Mites:
+The spider mites feeding causes white to yellow speckles to form on the upper surface of the leaves. As infestation becomes more severe, leaves appear bronzed or silvery first and then become brittle, rip open between the leaf veins, and finally fall off. Spider mite eggs can be found on undersides of leaves. The spider mite itself is located there, nesting in a cocoon resembling webbing. Infected plants will be covered by a web spun by the spider mites. Shoot tips can become bald and as a result, side shoots start to grow. In cases of heavy damage, the quantity, as well as quality of fruits, is reduced.
+@
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments, if available.
+
+Choose ONE of the products if you want to apply chemical control
+
+Insecticide
+Abamectin 1.8% EC
+Found in:  Dynamec (Syngenta), Vertimac (Syngenta)
+
+Insecticide
+Spiromesifen 22.9% SC
+Found in :Voltage (PI Ind.), Oberon (Bayer)
+
+Miticide
+Fenazaquin 10.0% EC
+Found in : Magister (DuPont)
+#Tomato;Target_Spot:TTS@TTS
+#Tomato;Yellow_Leaf:
+Infection at seedling stage results in severe stunting of young leaves and shoots, leading to a somewhat bushy growth of the plant. In older plants, the infection results in excessive branching, thicker and wrinkled leaves, and interveinal chlorosis clearly visible on the leaf blade. At later stages of the disease, the plants take a leathery texture and their chlorotic margins are rolled upwards and inwards. If the infection takes place before the flowering stage, the number of fruits is considerably reduced, even though there are no noticeable symptoms on their surface.
+@
+Organic Control
+There is no treatment against TYLCV. Control the whitefly population to avoid the infection with the virus.
+
+Chemical Control
+Once infected with the virus, there are no treatments against the infection. Control the whitefly population to avoid the infection with the virus. Insecticides of the family of the pyrethroids used as soil drenches or spray during the seedling stage can reduce the population of whiteflies. However, their extensive use might promote resistance development in whitefly populations.
+#Tomato;Mosaic_Virus:
+All plant parts can be affected during any growth stage. The symptoms depend on environmental conditions (light, day length, temperature). Infected leaves show a green and yellow mottling or a mosaic pattern. Younger leaves are slightly distorted. Older leaves show raised dark green areas. In some cases, dark necrotic streaks appear in stems and petioles. Plants are stunted to varying degrees and fruit set may be severely reduced. Unevenly ripening fruits develop brown spots on their surface, and internal, browning blotches in the fruit wall. Crop yield might be reduced significantly.
+@
+Organic Control
+Dry heating seeds at 70°C for 4 days or at 82-85°C for 24 hours will help to rid them of the virus. Alternatively, seeds can be soaked for 15 min in a solution of 100 g/l of trisodium phosphate, rinsed thoroughly with water and dried.
+
+Chemical Control
+Always consider an integrated approach with preventive measures together with biological treatments if available. There is no effective chemical treatment against Tomato Mosaic Virus
+#Tomato;Healthy:TH#
