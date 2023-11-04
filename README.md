@@ -10,7 +10,7 @@ The working of the application can be seen from the given link:
 ----
 
 ### Project Explanation
-- https://docs.google.com/presentation/d/1ndyjHMHUJYcQVI82gkDDVhAaNs4eNgD8oATnjXgUZ0w/edit?usp=sharing
+- https://drive.google.com/file/d/1mZw8fS0evQNC1vTGw30qmcYCNcTAhUFB/view?usp=sharing
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
